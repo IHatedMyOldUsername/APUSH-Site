@@ -1,2 +1,2 @@
 dotnet build;
-echo 'Finished! No errors found'
+echo 'Finished! No errors found';
