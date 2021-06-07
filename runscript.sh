@@ -1,1 +1,1 @@
-JENKINS_NODE_COOKIE=dontKillMe nohup dotnet run &;
+JENKINS_NODE_COOKIE=dontKillMe nohup dotnet run &
