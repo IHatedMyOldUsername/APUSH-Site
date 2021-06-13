@@ -69,3 +69,15 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.quote {
+  margin-left:auto;
+  margin-right:auto;
+  width:80%
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
